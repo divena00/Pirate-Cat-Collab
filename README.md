@@ -1,2 +1,2 @@
 # Pirate-Cat-Collab
-Visual novel game called "Pirate Cat"
+Visual novel and digital game called "Pirate Cat"
